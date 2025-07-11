@@ -27,4 +27,5 @@ Power BI for dashboard design & visual analytics
 
 Excel/CSV or relational databases (assumed) for raw data sources
 
-(Optional: Python for preprocessing, if applicable)
+# Main Page Dashboard
+![Main page dashboard](https://github.com/farook8090/ITC-Hotel/blob/1ae273220924f7771dbd8d196d69dd017c8475d5/milestone%20images/1.jpg)
