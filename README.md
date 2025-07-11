@@ -21,6 +21,10 @@ An interactive, multi-page Power BI dashboard designed to optimize revenue for I
 
 ![Cancellation analysis](https://github.com/farook8090/ITC-Hotel/blob/df03875c36cd6c4d12cde6dd1d082b23cc802004/milestone%20images/5.jpg)
 
+# Filter panel
+
+![Filter panel](https://github.com/farook8090/ITC-Hotel/blob/76f4f64de866cae0deabd080a0a231b9337e18ae/milestone%20images/filters_page.png)
+
 # 🔍 Key Features
 Financial Overview: Track total revenue, MoM/WoW growth, ADR, and RevPAR across hotel properties and room categories.
 
