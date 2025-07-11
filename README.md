@@ -1,8 +1,8 @@
-🏨 # ITC Hotels Revenue Optimization Dashboard
+# 🏨 ITC Hotels Revenue Optimization Dashboard
 Description:
 An interactive, multi-page Power BI dashboard designed to optimize revenue for ITC Hotels by analyzing key financial metrics, occupancy trends, booking behavior, room category performance, and cancellation patterns. This project supports data-driven decision-making by delivering real-time insights to stakeholders across multiple properties and service tiers.
 
-🔍 # Key Features
+# 🔍 Key Features
 Financial Overview: Track total revenue, MoM/WoW growth, ADR, and RevPAR across hotel properties and room categories.
 
 Occupancy & Capacity Analysis: Analyze seasonal trends, city-wise performance, and occupancy correlation with revenue.
@@ -11,7 +11,7 @@ Booking Behavior Insights: Evaluate lead times, check-in patterns, and average l
 
 Cancellation Analysis: Identify high-risk periods and quantify lost revenue due to cancellations.
 
-📊 # Core KPIs
+# 📊 Core KPIs
 Total Revenue, Cumulative Growth
 
 Occupancy Rate (MoM/WoW)
@@ -22,7 +22,7 @@ ALOS by Room Category
 
 Lost Revenue from Cancellations (₹298.77 million)
 
-🛠️ # Tech Stack
+# 🛠️ Tech Stack
 Power BI for dashboard design & visual analytics
 
 Excel/CSV or relational databases (assumed) for raw data sources
